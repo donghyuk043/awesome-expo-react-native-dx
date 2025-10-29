@@ -1,6 +1,6 @@
 {
   "name": "awesome-expo-react-native-dx",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Curated Expo + React Native DX resources with automated quality checks and weekly health validation.",
   "main": "src/index.js",
   "scripts": {
